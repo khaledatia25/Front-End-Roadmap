@@ -9,7 +9,7 @@ Step by step guiding to becoming a front-end developer
  - [What's HTTP ?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
  - [How Browser Works ?](https://web.dev/howbrowserswork/)
  - [What's DNS and How it works ?](https://web.dev/howbrowserswork/)
- - [Hosting]([https://web.dev/howbrowserswork/](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+ - [Hosting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
 
 ## HTML Hypertext Markup Language
 Standard Markup Language for creating web pages.
