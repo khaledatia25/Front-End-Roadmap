@@ -19,8 +19,8 @@ Standard Markup Language for creating web pages.
 
 ## CSS Cascading Style Sheets
 Styling language used for describing the presentation of a documnt written in HTML
-- [Arabic course with assignments (recommended)] (https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe&ab_channel=ElzeroWebSchool)
-- [English full course ] (https://www.youtube.com/watch?v=n4R2E7O-Ngo&ab_channel=DaveGray)
+- [Arabic course with assignments recommended] (https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe&ab_channel=ElzeroWebSchool)
+- [ English full course ] (https://www.youtube.com/watch?v=n4R2E7O-Ngo&ab_channel=DaveGray)
 - [CSS animations English](https://www.youtube.com/watch?v=jgw82b5Y2MU&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5&ab_channel=TheNetNinja)
 - [SASS Arabic Course with assignments](https://www.youtube.com/watch?v=Di_RlcpkpN4&list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2&ab_channel=ElzeroWebSchool)
 - [SASS English Course](https://www.youtube.com/watch?v=St5B7hnMLjg&list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA&ab_channel=TheNetNinja)
