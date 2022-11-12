@@ -8,7 +8,7 @@
 |[Responsive Layouts](#making-responsive-layouts)|
 |[Git and Github](#git-and-github)|
 |[Javascript](#javascript)|
-|[Advanced Tutorials](#advanced-tutorials)|
+|[Advanced Tutorials](#advanced-tutorial)|
 |[Problem Solving](#problem-solving)|
 |[Channels](#channels)|
 |[Useful Websites](#useful-websites)|
