@@ -2,7 +2,7 @@
 |Content|
 | :------------:|
 |[Introduction](#introduction)|
-|[Basic Knowledge](#basic-knoledge)
+|[Basic Knowledge](#basic-knowledge)
 |[HTML](#html)|
 |[CSS](#css)|
 |[Responsive Layouts](#making-responsive-layouts)|
