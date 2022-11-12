@@ -102,7 +102,9 @@ Vue.js is an open-source model–view–viewmodel front end JavaScript framework
 - [English Course](https://www.youtube.com/watch?v=ccsz9FRy-nk&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&ab_channel=Codevolution)
 
 
-## [Tips to go on](https://www.youtube.com/watch?v=aKSZ9AyShlI&t=79s&ab_channel=ElzeroWebSchool)
+## Go on 
+- [watch this](https://www.youtube.com/watch?v=aKSZ9AyShlI&t=79s&ab_channel=ElzeroWebSchool)
+- [Keep Learning](https://www.google.com/)
 
 ---
 
