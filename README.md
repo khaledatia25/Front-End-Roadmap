@@ -47,7 +47,7 @@ JavaScript, often abbreviated as JS, is a programming language that conforms to 
 - [Hackerrank](https://www.hackerrank.com/)
 - [Codeforces](https://codeforces.com/)
 
-## Framework
-# React
+# Framework
+## React
 
 ## Beginner Level
