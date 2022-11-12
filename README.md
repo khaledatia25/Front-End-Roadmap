@@ -38,6 +38,16 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 - [English tutorial](https://www.youtube.com/watch?v=_OZVJpLHUaI&list=PL55RiY5tL51poFMpbva1IqfO-pylwSNsN&ab_channel=Academind)
 
 ## Javascript
+JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
+- [Javascript Arabic Course with assignments](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+- [JS Course]([https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv](https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org) [JS DOM](https://www.youtube.com/watch?v=FIORjGvT0kk&list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V&ab_channel=TheNetNinja) [Async JS](https://www.youtube.com/watch?v=PoRJizFvM7s&ab_channel=TraversyMedia) [EC6 crash course](https://www.youtube.com/watch?v=NCwa_xi0Uuc&ab_channel=ProgrammingwithMosh)
 
+## Problem solving
+- [Leet Code](https://leetcode.com/)
+- [Hackerrank](https://www.hackerrank.com/)
+- [Codeforces](https://codeforces.com/)
+
+## Framework
+# React
 
 ## Beginner Level
